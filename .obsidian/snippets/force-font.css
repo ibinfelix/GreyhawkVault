@@ -1,0 +1,50 @@
+/* Force the document body to standard Palatino */
+body {
+    --font-text-override: 'Palatino Linotype', 'Palatino', serif !important;
+    --font-text: 'Palatino Linotype', 'Palatino', serif !important;
+}
+
+.markdown-preview-view,
+.markdown-source-view {
+    font-family: 'Palatino Linotype', 'Palatino', serif !important;
+}
+
+/* Force all headers to Palatino Linotype Black / Extra Bold */
+body {
+    --font-header-override: 'Palatino Linotype Bold', 'Palatino-Bold', 'Palatino', serif !important;
+    --font-header: 'Palatino Linotype Bold', 'Palatino-Bold', 'Palatino', serif !important;
+}
+
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6,
+.cm-header-1,
+.cm-header-2,
+.cm-header-3,
+.cm-header-4,
+.cm-header-5,
+.cm-header-6 {
+    font-family: 'Palatino Linotype Bold', 'Palatino-Bold', 'Palatino', serif !important;
+    font-weight: 900 !important;
+    /* Forces the heaviest "Black" weight available */
+}
+
+/* Force the document title at the very top to Palatino Bold/Black */
+.inline-title,
+.view-header-title {
+    font-family: 'Palatino Linotype Bold', 'Palatino-Bold', 'Palatino', serif !important;
+    font-weight: 900 !important;
+}
+
+/* Force the text inside Graph View nodes to Palatino */
+.graph-view-wrapper {
+    --graph-text: 'Palatino Linotype', 'Palatino', serif !important;
+    font-family: 'Palatino Linotype', 'Palatino', serif !important;
+}
+
+.juggl-node {
+    font-family: 'Palatino Linotype', serif !important;
+}

@@ -1,0 +1,7 @@
+# Large files (>100MB exceeds GitHub limit)
+Resources/Img/Map_of_the_Flanaess_576CY.jpg
+
+# Obsidian internal state / layout
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/

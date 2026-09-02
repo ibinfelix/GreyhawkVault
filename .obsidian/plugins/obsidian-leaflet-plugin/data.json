@@ -1,0 +1,5327 @@
+{
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "locked": true,
+      "lastAccessed": 1788369278299,
+      "markers": [
+        {
+          "id": "ID_5bfbc9a86a6b",
+          "type": "Kingdom",
+          "loc": [
+            1157.0999908447266,
+            1379.2299130553965
+          ],
+          "link": "Ciudad Libre de Greyhawk (Free City of Greyhawk)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.552744531958446,
+            -0.6182973912369527
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a4ad9f8d8bb",
+          "type": "City",
+          "loc": [
+            1010.312557220459,
+            1112.837528604119
+          ],
+          "link": "Ciudad de Enstad (Enstad)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89ab1ad8cb3b",
+          "type": "Kingdom",
+          "loc": [
+            1207.6125030517578,
+            1254.001833234072
+          ],
+          "link": "Ciudad Libre de Dyvers (Free City of Dyvers)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_faba3a19eacb",
+          "type": "Kingdom",
+          "loc": [
+            993.3524396508301,
+            1261.2059833167084
+          ],
+          "link": "Costa Salvaje (Wild Coast)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3abbfb69aa1b",
+          "type": "Village",
+          "loc": [
+            1060.527583863552,
+            1278.1739103290283
+          ],
+          "link": "Ciudad de Safeton (Safeton)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b786839488b",
+          "type": "Village",
+          "loc": [
+            957.2899938103162,
+            1247.0660441397754
+          ],
+          "link": "Ciudad de Fax (Fax)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59d8b9895829",
+          "type": "Village",
+          "loc": [
+            1109.317951765424,
+            1223.7351444978353
+          ],
+          "link": "Ciudad de Narwell (Narwell)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b89cb0b0ad9",
+          "type": "Village",
+          "loc": [
+            898.5062522888184,
+            1281.4981209966707
+          ],
+          "link": "Ciudad de Elredd (Elredd)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_791ba928d9fa",
+          "type": "Kingdom",
+          "loc": [
+            805.262014276022,
+            1394.6790266374824
+          ],
+          "link": "Tierra de los Senescales de la Pomarj (Pomarj)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0859fa79eb09",
+          "type": "City",
+          "loc": [
+            839.5062522888184,
+            1379.5022367710974
+          ],
+          "link": "Ciudad de Highport (Highport)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_182a69b98849",
+          "type": "City",
+          "loc": [
+            705.9062309265137,
+            1507.3823357198733
+          ],
+          "link": "Ciudad de Blue (Blue)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28eaa928393a",
+          "type": "BodyOfWater",
+          "loc": [
+            1310.1562385559082,
+            1433.9356399873666
+          ],
+          "link": "Nyr Dyv (Lago Nyr Dyv)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_291bf938e9a9",
+          "type": "Kingdom",
+          "loc": [
+            1014.2562408447266,
+            1152.401443167191
+          ],
+          "link": "Reino de Celene (Celene)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9fa38d81a58",
+          "type": "City",
+          "loc": [
+            892.0612634393201,
+            1104.3046586000514
+          ],
+          "link": "Ciudad de Courwood (Courwood)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b9908ca7859",
+          "type": "Kingdom",
+          "loc": [
+            858.3562469482422,
+            1060.7239695068174
+          ],
+          "link": "Condado de Ulek (County of Ulek)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98f8f92a392b",
+          "type": "BodyOfWater",
+          "loc": [
+            990.7562408447266,
+            1348.1522044538997
+          ],
+          "link": "Bahía de Woolly (Woolly Bay)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab5bcba97a59",
+          "type": "BodyOfWater",
+          "loc": [
+            819.15625,
+            1625.9736842105262
+          ],
+          "link": "Golfo de Gearnat (Gearnat Gulf)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_193ae979d86a",
+          "type": "City",
+          "loc": [
+            1231.339111706498,
+            1593.0218799311517
+          ],
+          "link": "Ciudad de Leukish (Leukish)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9e8790b49da",
+          "type": "Kingdom",
+          "loc": [
+            820.1562385559082,
+            816.8028222730741
+          ],
+          "link": "Reino de Keoland (Kingdom of Keoland)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb2ac9da5989",
+          "type": "Kingdom",
+          "loc": [
+            1344.3513994443522,
+            1140.0402789308794
+          ],
+          "link": "Reino de Furyondy (Kingdom of Furyondy)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4568861394511498,
+            -0.7183553450513603
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e92909ba597b",
+          "type": "Kingdom",
+          "loc": [
+            1496.3562049865723,
+            1426.7472982515728
+          ],
+          "link": "Tierras del Escudo (Shield Lands)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bcb38da085b",
+          "type": "City",
+          "loc": [
+            1370.15620803833,
+            1455.7694187702607
+          ],
+          "link": "Ciudad de Admundfort (Admundfort)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cafb88b87938",
+          "type": "City",
+          "loc": [
+            1409.65620803833,
+            1350.1889458488267
+          ],
+          "link": "Ciudad de Critwall (Critwall)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e98848cb89fa",
+          "type": "City",
+          "loc": [
+            1321.7561836242676,
+            1294.646611752717
+          ],
+          "link": "Ciudad de Willip (Willip)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5818290b389a",
+          "type": "Village",
+          "loc": [
+            945.1825930898957,
+            1148.2057097716818
+          ],
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_488a7b384948",
+          "type": "Desert",
+          "loc": [
+            1010.15625,
+            1507.5278413424867
+          ],
+          "link": "Gran Desierto Brillante (Bright Desert)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a89da9ae838",
+          "type": "Mountain",
+          "loc": [
+            1070.6392075976419,
+            959.3807896251503
+          ],
+          "link": "Montañas Lortmil (Lortmil Mountains)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aba9b587a7b",
+          "type": "Mountain",
+          "loc": [
+            1103.15625,
+            1093.5545385202136
+          ],
+          "link": "Colinas Kron (Kron Hills)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b7b2a8a3a9b",
+          "type": "Forest",
+          "loc": [
+            870.9562683105469,
+            1215.7260991728642
+          ],
+          "link": "Bosque de Suss (Suss Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_888b28893bba",
+          "type": "Village",
+          "loc": [
+            905.3822101759552,
+            1217.1564985375471
+          ],
+          "link": "Ciudad de Badwall (Badwall)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8a9bb99e9e9",
+          "type": "City",
+          "loc": [
+            1144.9966671010445,
+            1087.206028193274
+          ],
+          "link": "Ciudad de Verbobonc (Verbobonc)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba9aba58291b",
+          "type": "Kingdom",
+          "loc": [
+            1164.0845984154162,
+            1065.2584851814331
+          ],
+          "link": "Viscondado de Verbobonc (Verbobonc)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39eb58a918fa",
+          "type": "City",
+          "loc": [
+            1231.9076735111619,
+            892.2490345410777
+          ],
+          "link": "Ciudad de Veluna City (Veluna City)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ae949282b9a",
+          "type": "City",
+          "loc": [
+            1304.1981367868668,
+            828.8450213957599
+          ],
+          "link": "Ciudad de Mitrik (Mitrik)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a1ae9d92859",
+          "type": "Kingdom",
+          "loc": [
+            1288.5572090159249,
+            916.3227507435673
+          ],
+          "link": "Archiclericato de Veluna (Archclericy of Veluna)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.36722839693971004,
+            -0.6885416706403097
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a98aaaba4bd9",
+          "type": "Forest",
+          "loc": [
+            1085.65625,
+            1169.1953348469679
+          ],
+          "link": "Bosque de Welkwood (Welkwood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19f9aa8a191a",
+          "type": "Forest",
+          "loc": [
+            1156.9562530517578,
+            1282.7819099804537
+          ],
+          "link": "Bosque de Gnarley (Gnarley Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d96a9bd909d8",
+          "type": "Mountain",
+          "loc": [
+            1282.65625,
+            1477.5022883295194
+          ],
+          "link": "Colinas de los Túmulos (Cairn Hills)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c94b399a688b",
+          "type": "Kingdom",
+          "loc": [
+            1212.65625,
+            1554.4877955758961
+          ],
+          "link": "Ducado de Urnst (Duchy of Urnst)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9bb2828e96a",
+          "type": "Kingdom",
+          "loc": [
+            1387.15625,
+            1761
+          ],
+          "link": "Condado de Urnst (County of Urnst)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68380b089b79",
+          "type": "City",
+          "loc": [
+            1269.65625,
+            1741.550724637681
+          ],
+          "link": "Ciudad de Troigol (Troigol)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b0909e90828",
+          "type": "City",
+          "loc": [
+            1382.65625,
+            1608.949656750572
+          ],
+          "link": "Ciudad de Radigast City (Radigast City)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb79ca3a08ca",
+          "type": "City",
+          "loc": [
+            1306.15625,
+            1063.2250831307208
+          ],
+          "link": "Ciudad de Littleberg (Littleberg)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb3b9b2b796b",
+          "type": "City",
+          "loc": [
+            910.3562316894531,
+            1007.6372051690026
+          ],
+          "link": "Ciudad de Tringlee (Tringlee)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a88d9e95bd9",
+          "type": "City",
+          "loc": [
+            995.8562316894531,
+            899.5548253063024
+          ],
+          "link": "Ciudad de Waybury (Waybury)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ac949591b6a",
+          "type": "City",
+          "loc": [
+            830.3562316894531,
+            889.0468161529843
+          ],
+          "link": "Ciudad de Niole Dra (Niole Dra)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da5a1af8489a",
+          "type": "City",
+          "loc": [
+            774.5562133789062,
+            1050.6700045587813
+          ],
+          "link": "Ciudad de Jurnre (Jurnre)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9fa1ab9aa78",
+          "type": "Kingdom",
+          "loc": [
+            928.9562072753906,
+            931.0788222254005
+          ],
+          "link": "Ducado de Ulek (Duchy of Ulek)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba4b5b9b78e9",
+          "type": "Forest",
+          "loc": [
+            910.6916019031974,
+            886.8179814237056
+          ],
+          "link": "Bosque de Axewood (Axewood)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18385a4808fb",
+          "type": "Forest",
+          "loc": [
+            842.4562072753906,
+            953.111240226926
+          ],
+          "link": "Bosque de Silverwood (Silver Wood)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb28fa0948b8",
+          "type": "Kingdom",
+          "loc": [
+            714.7562561035156,
+            1150.3280884999524
+          ],
+          "link": "Principado de Ulek (Principality of Ulek)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bebfa2a197a",
+          "type": "City",
+          "loc": [
+            712.7562561035156,
+            1187.3563112306922
+          ],
+          "link": "Ciudad de Havenhill (Havenhill)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_596b59a95baa",
+          "type": "City",
+          "loc": [
+            681.7562561035156,
+            1160.3357162650173
+          ],
+          "link": "Ciudad de Gryrax (Gryrax)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a92b8ac9dbaa",
+          "type": "Mountain",
+          "loc": [
+            270.7600080877447,
+            690.8037272310828
+          ],
+          "link": "Montañas Hornos del Infierno (Hellfurnaces)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9c96bda78f8",
+          "type": "Mountain",
+          "loc": [
+            810.5125122070312,
+            340.8222730739893
+          ],
+          "link": "Montañas Niebla de Cristal (Crystalmist Mountains)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da1acbc8481a",
+          "type": "Mountain",
+          "loc": [
+            1099.5124816894531,
+            356.83447749809307
+          ],
+          "link": "Montañas Picos de la Barrera (Barrier Peaks)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f909fb7adad8",
+          "type": "Kingdom",
+          "loc": [
+            1781.5562591552734,
+            1213.3124515815693
+          ],
+          "link": "Tierra de Iuz (Land of Iuz)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b6b68b9bacb",
+          "type": "City",
+          "loc": [
+            1724.5562591552734,
+            1227.3231304526603
+          ],
+          "link": "Ciudad de Dorakaa (Dorakaa)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_faa8e8da2929",
+          "type": "Mountain",
+          "loc": [
+            1920.2562561035156,
+            1170.5394111127002
+          ],
+          "link": "Montañas Hollow Highlands (Hollow Highlands)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa991bea183b",
+          "type": "Mountain",
+          "loc": [
+            1537.8562469482422,
+            1499.7550541392543
+          ],
+          "link": "Montaña del Penacho Blanco (White Plume Mountain)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_885919789b7a",
+          "type": "Mountain",
+          "loc": [
+            1606.3125,
+            593.9252479023646
+          ],
+          "link": "Montañas Yatil (Yatil Mountains)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b5a3bc82b2b",
+          "type": "Forest",
+          "loc": [
+            1335.9124755859375,
+            629.3522746233791
+          ],
+          "link": "Bosque de Bramblewood (Bramblewood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b68f9a82a48",
+          "type": "Forest",
+          "loc": [
+            1539.3124694824219,
+            932.1830663615561
+          ],
+          "link": "Bosque de Vesve (Vesve Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aadbd969d918",
+          "type": "Forest",
+          "loc": [
+            1774.7142857232013,
+            1556.228668262765
+          ],
+          "link": "Bosque de Fellreev (Fellreev Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bca8abafada",
+          "type": "BodyOfWater",
+          "loc": [
+            1619.2126613896771,
+            1157.680732314165
+          ],
+          "link": "Lago Whyestil (Whyestil Lake)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6878f96ab8cb",
+          "type": "Forest",
+          "loc": [
+            1146.582493160426,
+            1687.3269040938203
+          ],
+          "link": "Bosque de Celadon (Celadon Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_388a9818388a",
+          "type": "Kingdom",
+          "loc": [
+            1198.2012881870442,
+            1897.6393472123673
+          ],
+          "link": "Reino de Nyrond (Kingdom of Nyrond)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f95a4918babb",
+          "type": "City",
+          "loc": [
+            1139.7942853243844,
+            1921.8354603866603
+          ],
+          "link": "Ciudad de Rel Mord (Rel Mord)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1928caf909ab",
+          "type": "City",
+          "loc": [
+            1152.8050242031932,
+            1746.4906438912612
+          ],
+          "link": "Ciudad de Woodwych (Woodwych)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_faaa6ae9ca5b",
+          "type": "City",
+          "loc": [
+            1258.1639345999888,
+            2006.196779336301
+          ],
+          "link": "Ciudad de Womtham (Womtham)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b7849492a89",
+          "type": "City",
+          "loc": [
+            1056.6385019618226,
+            1992.7515025693917
+          ],
+          "link": "Ciudad de Mithat (Mithat)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b5aa84b0aa8",
+          "type": "City",
+          "loc": [
+            1018.4547357777492,
+            1953.1233184142905
+          ],
+          "link": "Ciudad de Oldred (Oldred)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a919381a6849",
+          "type": "City",
+          "loc": [
+            1040.3750459945322,
+            1760.6435668037975
+          ],
+          "link": "Ciudad de Beetu (Beetu)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a1b8af8aa89",
+          "type": "Forest",
+          "loc": [
+            1390.3125610351562,
+            2000.5952830020021
+          ],
+          "link": "Bosque de Gamboge (Gamboge Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bf96918d81a",
+          "type": "Mountain",
+          "loc": [
+            1603.9124755859375,
+            2207.786550700801
+          ],
+          "link": "Montañas Rakers (Rakers)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bfa9bb91bd8",
+          "type": "Mountain",
+          "loc": [
+            1358.007377576831,
+            2135.2732528612114
+          ],
+          "link": "Colinas de Sílex (Flinty Hills)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a69a83a2afa",
+          "type": "BodyOfWater",
+          "loc": [
+            896.2666494620155,
+            2001.3878059869044
+          ],
+          "link": "Bahía de Relmor (Relmor Bay)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08c8a8db2bab",
+          "type": "City",
+          "loc": [
+            638.9125061035156,
+            1049.5498337385584
+          ],
+          "link": "Ciudad de Gradsul (Gradsul)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb5bbb19f9c9",
+          "type": "City",
+          "loc": [
+            799.9125061035156,
+            661.2538764540427
+          ],
+          "link": "Ciudad de Flen (Flen)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68f8b89a1b29",
+          "type": "Forest",
+          "loc": [
+            599.9125061035156,
+            998.5109321367277
+          ],
+          "link": "Bosque de Dreadwood (Dreadwood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b38ba8bf80a",
+          "type": "City",
+          "loc": [
+            650.3562622070312,
+            772.2655408264206
+          ],
+          "link": "Ciudad de Longspear (Longspear)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8793a38db8a",
+          "type": "City",
+          "loc": [
+            482.45623779296875,
+            985.1593867694031
+          ],
+          "link": "Ciudad de Monmurg (Monmurg)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aba99938f80b",
+          "type": "Kingdom",
+          "loc": [
+            979.3125,
+            2164.40414342582
+          ],
+          "link": "Prepotencia de Almor (Prelacy of Almor)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b929d9a8aa4a",
+          "type": "City",
+          "loc": [
+            1156.3125,
+            2216.443807804157
+          ],
+          "link": "Ciudad de Innspa (Innspa)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb1818a92919",
+          "type": "Forest",
+          "loc": [
+            1200.9124755859375,
+            2291.5010160421434
+          ],
+          "link": "Bosque de Adri (Adri Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9d988799a49",
+          "type": "City",
+          "loc": [
+            944.9124755859375,
+            2108.361427941457
+          ],
+          "link": "Ciudad de Chathold (Chathold)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eab8bb0b894a",
+          "type": "City",
+          "loc": [
+            1203.9124755859375,
+            2375.565089268688
+          ],
+          "link": "Ciudad de Edge Field (Edge Field)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca1a083a1b18",
+          "type": "City",
+          "loc": [
+            1298.9124755859375,
+            2263.479658299962
+          ],
+          "link": "Ciudad de Knurl (Knurl)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b0b69e8f92a",
+          "type": "Kingdom",
+          "loc": [
+            664.7599151965635,
+            1742.6214288033311
+          ],
+          "link": "Ducado de Onnwal (Duchy of Onnwal)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_392b69288a39",
+          "type": "City",
+          "loc": [
+            693.751293225212,
+            1675.3950449687843
+          ],
+          "link": "Ciudad de Scant (Scant)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19e93b19596a",
+          "type": "Kingdom",
+          "loc": [
+            632.1760301688677,
+            1859.9745270134038
+          ],
+          "link": "Ciudad Libre de Irongate (Free City of Irongate)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7454092603829444,
+            -0.3378038141462538
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_facbd9190a4a",
+          "type": "Kingdom",
+          "loc": [
+            612.1511965713081,
+            1990.546041373151
+          ],
+          "link": "Condado de Idee (County of Idee)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb2a18fac8f8",
+          "type": "City",
+          "loc": [
+            708.0349019952276,
+            1994.7903001535908
+          ],
+          "link": "Ciudad de Zelradton (Zelradton)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8e9eb4b788b",
+          "type": "City",
+          "loc": [
+            722.1770376189586,
+            2103.0601604344934
+          ],
+          "link": "Ciudad de Hexpools (Hexpools)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4aa84a2afa39",
+          "type": "Kingdom",
+          "loc": [
+            730.4413049657036,
+            2207.8909424478993
+          ],
+          "link": "Principado de Ahlissa (Ahlissa)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8848413408429602,
+            -0.39031194960281956
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a7b8be84bd9",
+          "type": "City",
+          "loc": [
+            826.1217344533811,
+            2066.262560861899
+          ],
+          "link": "Ciudad de Prymp (Prymp)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea186919f8ca",
+          "type": "Forest",
+          "loc": [
+            645.8094836716251,
+            2193.497329207341
+          ],
+          "link": "Bosque de Rieuwood (Rieuwood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_087b8848aa7a",
+          "type": "Mountain",
+          "loc": [
+            660.6587260765426,
+            2295.3983741776024
+          ],
+          "link": "Montañas Glorioles (Glorioles)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bba6a3a8a9b",
+          "type": "Kingdom",
+          "loc": [
+            948.1124572753906,
+            2468.3185843344777
+          ],
+          "link": "Gran Reino de Aerdy (Great Kingdom of Aerdy)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db3bd9d97b59",
+          "type": "City",
+          "loc": [
+            889.1124572753906,
+            2355.232390589245
+          ],
+          "link": "Ciudad de Jalpa (Jalpa)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18fb5a0a1939",
+          "type": "City",
+          "loc": [
+            970.1124572753906,
+            2516.355197606789
+          ],
+          "link": "Ciudad de Rauxes (Rauxes)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9f80b9998f8",
+          "type": "City",
+          "loc": [
+            768.1124572753906,
+            2396.263664426011
+          ],
+          "link": "Ciudad de Torrich (Torrich)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a797bca8a4a",
+          "type": "City",
+          "loc": [
+            705.1124572753906,
+            2360.2362044717775
+          ],
+          "link": "Ciudad de Nulbish (Nulbish)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca6b58dab8d9",
+          "type": "City",
+          "loc": [
+            1157.1124572753906,
+            2573.3986758676583
+          ],
+          "link": "Ciudad de Delaric (Delaric)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b6af918789b",
+          "type": "Forest",
+          "loc": [
+            936.7125244140625,
+            2623.217519426964
+          ],
+          "link": "Bosque de Grandwood (Grandwood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa399888887b",
+          "type": "Kingdom",
+          "loc": [
+            1319.3125,
+            2604.0213577421814
+          ],
+          "link": "Gran Reino de Aerdy (Great Kingdom of Aerdy)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_188a0a692a5a",
+          "type": "City",
+          "loc": [
+            1292,
+            2452.003051106026
+          ],
+          "link": "Ciudad de Eastfair (Eastfair)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9826724797766514,
+            -0.6903813290111249
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_586b9a5be89a",
+          "type": "City",
+          "loc": [
+            1442.3125,
+            2474.9229595728452
+          ],
+          "link": "Ciudad de Bellport (Bellport)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_483929688be9",
+          "type": "City",
+          "loc": [
+            1425.3125,
+            2594.013729977117
+          ],
+          "link": "Kaport Bay",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_493809a8ba5b",
+          "type": "City",
+          "loc": [
+            1327.3125,
+            2721.11060259344
+          ],
+          "link": "Ciudad de Atirr (Atirr)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fabb7bc83ba8",
+          "type": "City",
+          "loc": [
+            1233.3125,
+            2735.121281464531
+          ],
+          "link": "Ciudad de Rinloru (Rinloru)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebd9cb7b093a",
+          "type": "City",
+          "loc": [
+            1151.512451171875,
+            2795.16704805492
+          ],
+          "link": "Ciudad de Winetha (Winetha)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bd968c9ca5a",
+          "type": "City",
+          "loc": [
+            1078.7124633789062,
+            2742.607682589626
+          ],
+          "link": "Ciudad de Roland (Roland)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a1b0b5be848",
+          "type": "City",
+          "loc": [
+            1099.7124633789062,
+            2885.7167596300533
+          ],
+          "link": "Ciudad de Asperdi (Asperdi)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c94a691a1bea",
+          "type": "Kingdom",
+          "loc": [
+            1447.3124694824219,
+            2325.68993432971
+          ],
+          "link": "Marca del Hueso (Bone March)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b6bb959aacb",
+          "type": "City",
+          "loc": [
+            1494.1124572753906,
+            2467.798248593631
+          ],
+          "link": "Ciudad de Johnsport (Johnsport)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8386bea5b1b",
+          "type": "Forest",
+          "loc": [
+            1554.3002459292402,
+            2454.8234910469005
+          ],
+          "link": "Bosque de Loftwood (Loftwood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1959c9db9bfb",
+          "type": "City",
+          "loc": [
+            1498.4388317946893,
+            2293.894807310887
+          ],
+          "link": "Ciudad de Spinecastle (Spinecastle)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c939689b8938",
+          "type": "City",
+          "loc": [
+            1489.2464436392643,
+            2135.3820706904808
+          ],
+          "link": "Ciudad de Ogburg (Ogburg)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bf85a9bea5a",
+          "type": "City",
+          "loc": [
+            1480.3125,
+            1889.9641495041953
+          ],
+          "link": "Ciudad de Midmeadow (Midmeadow)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e83afb0aa95a",
+          "type": "Forest",
+          "loc": [
+            1539.168186706872,
+            1836.7205155263061
+          ],
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d90ab95bc9aa",
+          "type": "Forest",
+          "loc": [
+            1636.7489225106153,
+            1862.1957767688712
+          ],
+          "link": "Bosque de Phostwood (Phostwood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38ca8bf85b49",
+          "type": "Village",
+          "loc": [
+            1503.9542776354565,
+            1774.3061168437628
+          ],
+          "link": "Ciudad de Stoink (Stoink)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2aaa782b58b8",
+          "type": "Village",
+          "loc": [
+            1652.0224117208957,
+            1734.4763009843732
+          ],
+          "link": "Ciudad de Redspan (Redspan)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69cb8abb4a08",
+          "type": "Village",
+          "loc": [
+            1707.1767406534464,
+            1669.3728555867065
+          ],
+          "link": "Ciudad de Rookroost (Rookroost)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8a98bba6a8b",
+          "type": "Village",
+          "loc": [
+            1542.420860636981,
+            1660.1734556935578
+          ],
+          "link": "Ciudad de Riftcrag (Riftcrag)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aea082a5aca",
+          "type": "City",
+          "loc": [
+            1794.4336915568426,
+            1846.8677599337407
+          ],
+          "link": "Ciudad de Nevond Nevnend (Nevond Nevnend)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8095bc84b39",
+          "type": "Kingdom",
+          "loc": [
+            1684.8321404729277,
+            1861.728328991904
+          ],
+          "link": "Ducado de Tenh (Duchy of Tenh)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a295a98d86a",
+          "type": "City",
+          "loc": [
+            1649.1939845961494,
+            1972.828773855313
+          ],
+          "link": "Ciudad de Wintershiven (Wintershiven)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09c809eaba7a",
+          "type": "Kingdom",
+          "loc": [
+            1527.0678089663052,
+            2092.4936960693094
+          ],
+          "link": "Teocracia del Pálido (Theocracy of the Pale)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8385943762614536,
+            -0.8159900181457155
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a1b5b6928ab",
+          "type": "City",
+          "loc": [
+            1545.249287761727,
+            1325.1046238325835
+          ],
+          "link": "Ciudad de Molag (Molag)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cafad8da18eb",
+          "type": "Kingdom",
+          "loc": [
+            1623.0310336922473,
+            1322.2740392500762
+          ],
+          "link": "Sociedad Cornuda (Horned Society)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_880a8999da0a",
+          "type": "City",
+          "loc": [
+            1545.4000244140625,
+            1183.1994019951374
+          ],
+          "link": "Ciudad de Grabford (Grabford)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.47418272579406223,
+            -0.8257858534897875
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8c9f828b9ba",
+          "type": "Mountain",
+          "loc": [
+            1846.7125244140625,
+            2107.579582022311
+          ],
+          "link": "Montañas Griff (Griff Mountains)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b99b90b9918",
+          "type": "City",
+          "loc": [
+            1450.9831149947954,
+            1062.636178704915
+          ],
+          "link": "Ciudad de Chendl (Chendl)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4258654280048002,
+            -0.7753340954356105
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a3918b9fb38",
+          "type": "City",
+          "loc": [
+            1504.9442012340937,
+            1051.5385309624417
+          ],
+          "link": "Ciudad de Crockport (Crockport)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_293b1a68ab2a",
+          "type": "City",
+          "loc": [
+            1419.5257106984334,
+            825.7928475378345
+          ],
+          "link": "Ciudad de Highfolk Town (Highfolk)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbba583b781a",
+          "type": "Kingdom",
+          "loc": [
+            1400.5752575943086,
+            826.2152604909323
+          ],
+          "link": "Tierras Altas de Highfolk (Highfolk)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bd95bdb1afb",
+          "type": "Forest",
+          "loc": [
+            2004.9124755859375,
+            1212.2405919264875
+          ],
+          "link": "Marismas Heladas (Cold Marshes)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_493b08081ad9",
+          "type": "Forest",
+          "loc": [
+            1985.5124816894531,
+            1803.918572118135
+          ],
+          "link": "Bosque de Forlorn (Forlorn Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b0af97939d9",
+          "type": "Kingdom",
+          "loc": [
+            1943.3999938964844,
+            1522.426263944508
+          ],
+          "link": "Nómadas de los Baldíos (Rovers of the Barrens)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6101323533804863,
+            -1.0384574849740456
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_096aa828e85b",
+          "type": "Kingdom",
+          "loc": [
+            424.4850395810493,
+            765.7195149100731
+          ],
+          "link": "Príncipes del Mar (Sea Princes)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89db581918cb",
+          "type": "City",
+          "loc": [
+            378.5230988039237,
+            837.1917756183811
+          ],
+          "link": "Ciudad de Hokar (Hokar)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bcacb6bba69",
+          "type": "City",
+          "loc": [
+            386.3012733969757,
+            952.5380973555514
+          ],
+          "link": "Ciudad de Port Toli (Port Toli)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb3a8a785ab8",
+          "type": "City",
+          "loc": [
+            470.44698035817487,
+            890.265236540392
+          ],
+          "link": "Ciudad de Westkeep (Westkeep)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6808fa28c96a",
+          "type": "Kingdom",
+          "loc": [
+            609.7470594102977,
+            687.2198749095611
+          ],
+          "link": "La Yeomanry (The Yeomanry)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68ab7b39b9c9",
+          "type": "City",
+          "loc": [
+            590.6551763182608,
+            586.026476084927
+          ],
+          "link": "Ciudad de Loftwick (Loftwick)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_082a39da38fb",
+          "type": "Forest",
+          "loc": [
+            507.21653297987535,
+            838.515151570755
+          ],
+          "link": "Pantanos de Hool (Hool Marshes)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b98aaa287838",
+          "type": "BodyOfWater",
+          "loc": [
+            281.22524455519033,
+            985.7483840359475
+          ],
+          "link": "Bahía de Jeklea (Jeklea Bay)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb7958189bc9",
+          "type": "Forest",
+          "loc": [
+            111.09530552749686,
+            1097.718150589399
+          ],
+          "link": "Selva de Amedio (Amedio Jungle)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbfb5a1b9a08",
+          "type": "BodyOfWater",
+          "loc": [
+            538.5325072883255,
+            1355.8581097013603
+          ],
+          "link": "Mar de Azur (Azure Sea)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.543377974299228,
+            -0.2877653158648665
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69fb0b781a6b",
+          "type": "City",
+          "loc": [
+            778.7455369555096,
+            546.5973174082831
+          ],
+          "link": "Ciudad de Istivin (Istivin)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8b868d868f9",
+          "type": "Kingdom",
+          "loc": [
+            801.372953953479,
+            496.3544410687794
+          ],
+          "link": "Condado de Sterich (County of Sterich)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da38aa4a5be8",
+          "type": "City",
+          "loc": [
+            886.4290652112932,
+            487.1965722375312
+          ],
+          "link": "Ciudad de Gorna (Gorna)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.19525043558301738,
+            -0.47366414559958336
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ada7a793a8a",
+          "type": "Kingdom",
+          "loc": [
+            1036.132405307413,
+            446.1552532489372
+          ],
+          "link": "Gran Ducado de Geoff (Grand Duchy of Geoff)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a79cb5b288b",
+          "type": "Forest",
+          "loc": [
+            875.9020043747039,
+            404.68724958301635
+          ],
+          "link": "Bosque de Hornwood (Hornwood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6adad8e92a28",
+          "type": "Forest",
+          "loc": [
+            946.6126824933586,
+            522.439585491835
+          ],
+          "link": "Bosque de Oytwood (Oytwood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a190ac9c8ba",
+          "type": "City",
+          "loc": [
+            999.5043042528107,
+            577.1519979688522
+          ],
+          "link": "Ciudad de Hochoch (Hochoch)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58e95a5b8998",
+          "type": "Forest",
+          "loc": [
+            1058.194167091294,
+            598.6644580724245
+          ],
+          "link": "Bosque Oscuro (Dim Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bdac8186a69",
+          "type": "Kingdom",
+          "loc": [
+            1124.0965061503684,
+            425.2911955851487
+          ],
+          "link": "Valle del Mago (Valley of the Mage)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1aa80a6b9ac8",
+          "type": "Dungeon",
+          "loc": [
+            1238.4869104852546,
+            1326.213800106253
+          ],
+          "link": "Castillo Greyhawk (Castle Greyhawk)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b093bc8eafa",
+          "type": "Forest",
+          "loc": [
+            933.7433466284788,
+            719.8249946879805
+          ],
+          "link": "Marismas de Rushmoor (Rushmoor)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49b9ea397919",
+          "type": "City",
+          "loc": [
+            978.0082570257804,
+            784.0792560726364
+          ],
+          "link": "Ciudad de Shiboleth (Shiboleth)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_994a09389a3b",
+          "type": "Kingdom",
+          "loc": [
+            1054.2962107491423,
+            709.0893036762176
+          ],
+          "link": "Gran Marcha (Gran March)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2841768667915404,
+            -0.5633641015080387
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bc9cad98a39",
+          "type": "City",
+          "loc": [
+            1098.5610995672575,
+            745.5725443765085
+          ],
+          "link": "Ciudad de Hookhill (Hookhill)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.29879800545328555,
+            -0.5870170835287662
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ac98abbfbaa",
+          "type": "Kingdom",
+          "loc": [
+            166.67394600296967,
+            2115.4688219385075
+          ],
+          "link": "Hermandad de la Escarlata (Scarlet Brotherhood)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a9b8a7a29cb",
+          "type": "City",
+          "loc": [
+            201.0393614636596,
+            2047.2517162235656
+          ],
+          "link": "Ciudad de Kro Terlep (Kro Terlep)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa79ab2af99b",
+          "type": "City",
+          "loc": [
+            1600.262143547993,
+            2325.2201922515164
+          ],
+          "link": "Ciudad de Ratikhill (Ratikhill)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_995869e969da",
+          "type": "Kingdom",
+          "loc": [
+            1626.1000061035156,
+            2298.620073238463
+          ],
+          "link": "Archibarón de Ratik (Archbarony of Ratik)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9212022335839897,
+            -0.8689079592250336
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f84a39e9bba8",
+          "type": "City",
+          "loc": [
+            1677.2562561035156,
+            2291.1448634749236
+          ],
+          "link": "Ciudad de Marner (Marner)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0ba9abb9cb5b",
+          "type": "Forest",
+          "loc": [
+            1714.65625,
+            2228.4866514111363
+          ],
+          "link": "Bosque de Timberway (Timberway Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4acb6a791b59",
+          "type": "Village",
+          "loc": [
+            1846.2562561035156,
+            2289.933479780463
+          ],
+          "link": "Ciudad de Djekul (Djekul)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bab2968f988",
+          "type": "Kingdom",
+          "loc": [
+            1893.15625,
+            2351.450800915332
+          ],
+          "link": "Barbaros del Escarcha (Frost Barbarians - Fruztii)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bc83b2a5b0b",
+          "type": "Village",
+          "loc": [
+            2008.65625,
+            2448.518688024409
+          ],
+          "link": "Ciudad de Krakenheim (Krakenheim)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab8be9ab9869",
+          "type": "Forest",
+          "loc": [
+            2090.356231689453,
+            2561.50479938382
+          ],
+          "link": "Bosque Espinoso (Spikey Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bbba85a098b",
+          "type": "Mountain",
+          "loc": [
+            2086.8930821506224,
+            2397.015756643577
+          ],
+          "link": "Montañas Corusk (Corusk Mountains)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9996b885848",
+          "type": "Village",
+          "loc": [
+            2037.678424285015,
+            2750.6362570252627
+          ],
+          "link": "Ciudad de Knudje (Knudje)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69b818ab3999",
+          "type": "Kingdom",
+          "loc": [
+            1928.0768732011002,
+            2808.6632409666613
+          ],
+          "link": "Barbaros de la Nieve (Snow Barbarians - Schnai)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca6838ea3adb",
+          "type": "City",
+          "loc": [
+            1860.9017074091917,
+            2889.1696316653624
+          ],
+          "link": "Ciudad de Soull (Soull)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_382b7809aaea",
+          "type": "Village",
+          "loc": [
+            1930.6224835083954,
+            2976.2960435024193
+          ],
+          "link": "Ciudad de Glot (Glot)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8c83b5aaa29",
+          "type": "Forest",
+          "loc": [
+            2128.753790649354,
+            2925.628596752057
+          ],
+          "link": "Bosque de Sable (Sable Wood)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a9baa6beb0a",
+          "type": "Kingdom",
+          "loc": [
+            2246.6992362779683,
+            2843.4000628006693
+          ],
+          "link": "Barbaros del Hielo (Ice Barbarians - Cruski)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b49ab7a085a",
+          "type": "Village",
+          "loc": [
+            2235.2441193702584,
+            2742.8400590216474
+          ],
+          "link": "Ciudad de Jotsplat (Jotsplat)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a0acbcb5a98",
+          "type": "Forest",
+          "loc": [
+            2146.4314817582044,
+            2168.3699148374535
+          ],
+          "link": "Bosque de Hraak (Hraak Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9c809c90949",
+          "type": "Kingdom",
+          "loc": [
+            2068.9325742243213,
+            2055.8541776827906
+          ],
+          "link": "Feudo de Stonefist (Hold of Stonefist)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_680a9889fa38",
+          "type": "Village",
+          "loc": [
+            1955.0883824532873,
+            2038.870670187747
+          ],
+          "link": "Ciudad de Purmill (Purmill)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39fb78ab89f8",
+          "type": "Village",
+          "loc": [
+            2038.2441658158489,
+            2116.046347466367
+          ],
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aac9fb685968",
+          "type": "Village",
+          "loc": [
+            2051.6791946583935,
+            1934.181288040276
+          ],
+          "link": "Ciudad de Bastro (Bastro)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb1969c8983a",
+          "type": "Village",
+          "loc": [
+            1960.3209683182304,
+            1896.3746281963183
+          ],
+          "link": "Ciudad de Vlekstaad (Vlekstaad)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_caa8bb7b7a7b",
+          "type": "Village",
+          "loc": [
+            1850.7194172343156,
+            1946.6919368285783
+          ],
+          "link": "Ciudad de Calbut (Calbut)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa2a3bf86adb",
+          "type": "BodyOfWater",
+          "loc": [
+            1763.4006203825895,
+            2595.5645275322954
+          ],
+          "link": "Bahía de Grendep (Grendep Bay)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab48e889bbe9",
+          "type": "BodyOfWater",
+          "loc": [
+            1394.0080637857607,
+            2913.439141594825
+          ],
+          "link": "Mar Solnor (Solnor Ocean)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a884b9b090a",
+          "type": "Kingdom",
+          "loc": [
+            894.2867806855542,
+            2989.288702907576
+          ],
+          "link": "Barones del Mar (Sea Barons)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b8939c8c92a",
+          "type": "City",
+          "loc": [
+            1026.656265258789,
+            2955.220759737319
+          ],
+          "link": "Ciudad de Oakenhart (Oakenhart)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79b8293aaaeb",
+          "type": "Kingdom",
+          "loc": [
+            504.2466758672173,
+            2881.350957334213
+          ],
+          "link": "Islas Pindrift (Pindrift Isles - Spindrift)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_badb38b8595a",
+          "type": "City",
+          "loc": [
+            460.85626220703125,
+            2956.2000366490274
+          ],
+          "link": "Ciudad de Lo Reltarma (Lo Reltarma)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d99b6a09cbb9",
+          "type": "Kingdom",
+          "loc": [
+            836.7824286413842,
+            2717.455265640803
+          ],
+          "link": "Ciudad Libre de Rel Astra (Free City of Rel Astra)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.0890559468777345,
+            -0.44713542196485734
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79188a980a7b",
+          "type": "City",
+          "loc": [
+            834.65625,
+            2739.8736018247046
+          ],
+          "link": "Ciudad de Rel Astra (Rel Astra)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9b9ca1ab8d8",
+          "type": "City",
+          "loc": [
+            884.1044689314916,
+            2799.9466586301355
+          ],
+          "link": "Ciudad de Ountsy (Ountsy)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b6a292bbae8",
+          "type": "City",
+          "loc": [
+            659.9515761369831,
+            2509.510281606113
+          ],
+          "link": "Ciudad de Pontylver (Pontylver)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_494b6ac97a89",
+          "type": "Kingdom",
+          "loc": [
+            716.6615486198189,
+            2591.880267042298
+          ],
+          "link": "Fief de Medegia (See of Medegia)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3968e9f958b8",
+          "type": "City",
+          "loc": [
+            686.9630638099839,
+            2664.0601738962328
+          ],
+          "link": "Ciudad de Mentrey (Mentrey)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab38089b58fb",
+          "type": "Village",
+          "loc": [
+            1096.7488828135763,
+            1357.3031837459203
+          ],
+          "link": "Ciudad de Hardby (Hardby)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6888f9a8a85b",
+          "type": "City",
+          "loc": [
+            1213.5,
+            1339.6902486770596
+          ],
+          "link": "Ciudad de Greyhawk (Ciudad Libre de Greyhawk)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5368984912992915,
+            -0.6484347854140868
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_492b18c818ea",
+          "type": "Village",
+          "loc": [
+            745.728930052255,
+            1379.934624707843
+          ],
+          "link": "Ciudad de Stoneheim (Stoneheim)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5530269544239176,
+            -0.3984809054268731
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9839d8d9cb4b",
+          "type": "Village",
+          "loc": [
+            1059.6562690734863,
+            96.81254916332952
+          ],
+          "link": "Ciudad de Kester (Kester)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19ea8a8a59e9",
+          "type": "Village",
+          "loc": [
+            1209.5562782287598,
+            171.97975588172199
+          ],
+          "link": "Ciudad de Ulakand (Ulakand)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_294bebfb8b4b",
+          "type": "Kingdom",
+          "loc": [
+            1145.8562507629395,
+            173.4477498093059
+          ],
+          "link": "Emirato de Ull (Caliphate of Ull)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_988a4ad9886a",
+          "type": "Village",
+          "loc": [
+            1472.8562507629395,
+            596.1837650767544
+          ],
+          "link": "Ciudad de Molvar (Molvar)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28a9093b68b9",
+          "type": "Kingdom",
+          "loc": [
+            1436.7562446594238,
+            558.8078749225305
+          ],
+          "link": "Sultanato de Ket (Ket)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9e9b899f838",
+          "type": "City",
+          "loc": [
+            1440.1562538146973,
+            486.05240885416663
+          ],
+          "link": "Ciudad de Lopolla (Lopolla)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbda38f85858",
+          "type": "Village",
+          "loc": [
+            1452.756259918213,
+            336.9597009677727
+          ],
+          "link": "Ciudad de Ceshra (Ceshra)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_988b695a4b8a",
+          "type": "City",
+          "loc": [
+            1517.256259918213,
+            338.4608451325324
+          ],
+          "link": "Ciudad de Sefmur (Sefmur)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9b9aa9919d8",
+          "type": "Kingdom",
+          "loc": [
+            1556,
+            403.5198321891686
+          ],
+          "link": "Pashalato de Tusmit (Pashalik of Tusmit)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1617158812088454,
+            -0.8314499597068966
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b385ad8094b",
+          "type": "Kingdom",
+          "loc": [
+            1610.1562538146973,
+            269.3242440765637
+          ],
+          "link": "Califato de Ekbir (Caliphate of Ekbir)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89ca1b7a2b8b",
+          "type": "City",
+          "loc": [
+            1680.6562538146973,
+            179.7559755792334
+          ],
+          "link": "Ciudad de Ekbir (Ekbir City)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e95849e8e959",
+          "type": "City",
+          "loc": [
+            1584.3562507629395,
+            78.07847137800344
+          ],
+          "link": "Ciudad de Zeif City (Zeif)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bdb6bc94afa",
+          "type": "Kingdom",
+          "loc": [
+            1477.1562385559082,
+            123.13148434520404
+          ],
+          "link": "Sultanato de Zeif (Sultanate of Zeif)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abeb9b2b3adb",
+          "type": "Village",
+          "loc": [
+            1451.5,
+            23.3005980048627
+          ],
+          "link": "Ciudad de Antalotol (Antalotol)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.009338021178802869,
+            -0.7756102933898203
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3989ba189b98",
+          "type": "Forest",
+          "loc": [
+            1774.4562721252441,
+            344.87706485983983
+          ],
+          "link": "Bosque de Udgru (Udgru Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b0ac84b3a69",
+          "type": "town",
+          "loc": [
+            1944.0093500163728,
+            371.60330284831923
+          ],
+          "link": "Ciudad de Yecha (Yecha)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b58aa5a1ab9",
+          "type": "Kingdom",
+          "loc": [
+            1982.6562232971191,
+            493.99608853570743
+          ],
+          "link": "Nómadas del Tigre (Tiger Nomads - Chakyik)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_581998dbfa2b",
+          "type": "Forest",
+          "loc": [
+            2119.13711792499,
+            672.1789295305302
+          ],
+          "link": "Bosque de Burneal (Burneal Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f81a68295a8a",
+          "type": "Village",
+          "loc": [
+            2126.8562507629395,
+            1058.4851258581234
+          ],
+          "link": "Ciudad de Dantredun (Dantredun)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c97a3b6b6909",
+          "type": "City",
+          "loc": [
+            168.85628128051758,
+            2251.665363838434
+          ],
+          "link": "Ciudad de Ekul (Ekul)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b96bb8dac858",
+          "type": "City",
+          "loc": [
+            261.5562324523926,
+            2444.341501150124
+          ],
+          "link": "Ciudad de Duxchan (Duxchan)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8998088b2809",
+          "type": "City",
+          "loc": [
+            385.45272044348746,
+            2599.216430369661
+          ],
+          "link": "Ciudad de Sulward (Sulward)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b85a59493b4b",
+          "type": "Kingdom",
+          "loc": [
+            456.3000030517578,
+            2293.3972173555494
+          ],
+          "link": "Condado de Sunndi (County of Sunndi)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9191091053802283,
+            -0.24382430536737842
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9b9087b2bf9",
+          "type": "Kingdom",
+          "loc": [
+            382.35625076293945,
+            2507.0183066361556
+          ],
+          "link": "Señorío de las Islas (Lordship of the Isles)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a5b8acaaa5a",
+          "type": "City",
+          "loc": [
+            429.09999084472656,
+            2417.0997009975686
+          ],
+          "link": "Ciudad de Dullstrand (Dullstrand)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9686845030536536,
+            -0.22928995507588537
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea88fb69581a",
+          "type": "Forest",
+          "loc": [
+            349.8145645667092,
+            2256.803072925607
+          ],
+          "link": "Gran Pantano (Vast Swamp)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39c9ea584aba",
+          "type": "City",
+          "loc": [
+            602.5562629699707,
+            2245.3841220323225
+          ],
+          "link": "Ciudad de Pitchfield (Pitchfield)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db7b893b2aea",
+          "type": "City",
+          "loc": [
+            507.35625076293945,
+            2050.9664378337147
+          ],
+          "link": "Ciudad de Naerie (Naerie)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b5808d978c8",
+          "type": "City",
+          "loc": [
+            739.0679947486676,
+            2247.7946080443116
+          ],
+          "link": "Ciudad de Kalstrand (Kalstrand)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9008332597788348,
+            -0.3949216288267587
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca1bcaa98a49",
+          "type": "City",
+          "loc": [
+            1590.65625,
+            656.4424103737605
+          ],
+          "link": "Ciudad de Krestible (Krestible)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aabdbf93b6a",
+          "type": "City",
+          "loc": [
+            1655.2562408447266,
+            752.6313256817315
+          ],
+          "link": "Ciudad de Schwartzenbruin (Schwartzenbruin)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69ea7a4aa85a",
+          "type": "Kingdom",
+          "loc": [
+            1742.4562377929688,
+            736.7192036434496
+          ],
+          "link": "República de Perrenland (Perrenland)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b29190bc99b",
+          "type": "BodyOfWater",
+          "loc": [
+            1797.15625,
+            733.0022883295194
+          ],
+          "link": "Lago Quag (Quag Lake)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb7a38c9fb48",
+          "type": "City",
+          "loc": [
+            1734.2562408447266,
+            586.3905110304635
+          ],
+          "link": "Ciudad de Exag (Exag)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b49cb08abdb",
+          "type": "City",
+          "loc": [
+            1746.469554208849,
+            829.5329985655873
+          ],
+          "link": "Ciudad de Traft (Traft)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9baab39bb28",
+          "type": "Kingdom",
+          "loc": [
+            1906.356216430664,
+            869.8355881424009
+          ],
+          "link": "Nómadas del Lobo (Wolf Nomads - Wegwiur)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bf8c9eba81a",
+          "type": "town",
+          "loc": [
+            1967.65625,
+            949.0301296720061
+          ],
+          "link": "Ciudad de Eru-Tovar (Eru-Tovar)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab8bd9a8b8ba",
+          "type": "Desert",
+          "loc": [
+            175.442087353032,
+            235.46121189579543
+          ],
+          "link": "Mar de Polvo (Sea of Dust)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a8a48f9a90a",
+          "type": "City",
+          "loc": [
+            1443.2557569582448,
+            707.2096835252948
+          ],
+          "link": "Polvar",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c829f818ca78",
+          "type": "town",
+          "loc": [
+            1083.7883625429347,
+            1114.4226791416606
+          ],
+          "link": "Aldea de Hommlet (Hommlet)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4466195493262141,
+            -0.5791232585906982
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9baa2ab8ebba",
+          "type": "Dungeon",
+          "loc": [
+            1084.8900021646712,
+            1136.6471958498068
+          ],
+          "link": "Templo del Mal Elemental (Temple of Elemental Evil)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9f9ca5aea8b",
+          "type": "Kingdom",
+          "loc": [
+            472.5425924995446,
+            2438.28482265537
+          ],
+          "link": "Dullstrand",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58b8da590879",
+          "type": "Kingdom",
+          "loc": [
+            1193.6719533698708,
+            656.8281357879677
+          ],
+          "link": "Marca de Bissel (March of Bissel)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f99a7adb4bcb",
+          "type": "City",
+          "loc": [
+            1268.6722226435859,
+            687.8045675920662
+          ],
+          "link": "Ciudad de Thornward (Thornward)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_096bdb4a793b",
+          "type": "Kingdom",
+          "loc": [
+            1683.1395398830275,
+            1559.2777078657334
+          ],
+          "link": "Reinos Bandidos (Bandit Kingdoms)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58ca98d8bb58",
+          "type": "City",
+          "loc": [
+            1326.374684164372,
+            925.6819632046936
+          ],
+          "link": "Ciudad de Caronis (Caronis)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bc9aaf8f878",
+          "type": "City",
+          "loc": [
+            1161.954346812031,
+            963.4295951216501
+          ],
+          "link": "Ciudad de Devarnish (Devarnish)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab39e80bdb08",
+          "type": "City",
+          "loc": [
+            1206.25140211076,
+            1244.046185775556
+          ],
+          "link": "Ciudad de Dyvers (Dyvers)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba1b49e97bbb",
+          "type": "Village",
+          "loc": [
+            1444.1097879430597,
+            1396.9577784794596
+          ],
+          "link": "Ciudad de Gensal (Gensal)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b29f88a1abb",
+          "type": "City",
+          "loc": [
+            1028.2230471597009,
+            990.1115353941946
+          ],
+          "link": "Ciudad de Hakar (Hakar)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a9beaf84b08",
+          "type": "City",
+          "loc": [
+            1592.4981979987128,
+            1915.7248497644916
+          ],
+          "link": "Ciudad de Hatherleigh (Hatherleigh)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_792a4918aadb",
+          "type": "City",
+          "loc": [
+            104.93448955031563,
+            2091.7454212848693
+          ],
+          "link": "Ciudad de Hesuel Ilshar (Hesuel Ilshar)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab6acbb9c82a",
+          "type": "City",
+          "loc": [
+            621.3730832125202,
+            1859.5721182174975
+          ],
+          "link": "Ciudad de Irongate (Irongate)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7452479897641421,
+            -0.33203125000000006
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8fb6ae86bd8",
+          "type": "City",
+          "loc": [
+            1485.4562683105469,
+            1001.6370435259344
+          ],
+          "link": "Kalinstren",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b8b0b796b98",
+          "type": "City",
+          "loc": [
+            1131.6562194824219,
+            1629.3442349292047
+          ],
+          "link": "Ciudad de Nellix (Nellix)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb89895b59b8",
+          "type": "town",
+          "loc": [
+            913.0986327293153,
+            412.8900116113909
+          ],
+          "link": "Ciudad de Pest's Crossing (Pest's Crossing)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88fabac91af9",
+          "type": "Dungeon",
+          "loc": [
+            1435.6205893900913,
+            794.3071275820889
+          ],
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9e80a8a798a",
+          "type": "Village",
+          "loc": [
+            1650.3125,
+            942.9267734553775
+          ],
+          "link": "Ciudad de Quaalsten (Quaalsten)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bab7999987a",
+          "type": "City",
+          "loc": [
+            832.6271038927855,
+            2201.5463121544835
+          ],
+          "link": "Ciudad de Rel Deven (Rel Deven)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3aa9fa98385b",
+          "type": "BodyOfWater",
+          "loc": [
+            1317.2562408447266,
+            1106.6445126275266
+          ],
+          "link": "Río Att (Att River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9acbb82b589a",
+          "type": "BodyOfWater",
+          "loc": [
+            1256.3124389648438,
+            973.9546728999808
+          ],
+          "link": "Río Velverdyva (Velverdyva River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_799898ea398a",
+          "type": "BodyOfWater",
+          "loc": [
+            1505.8562316894531,
+            1286.6288451682876
+          ],
+          "link": "Río Veng (Veng River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9888286a3909",
+          "type": "BodyOfWater",
+          "loc": [
+            1693.3124694824219,
+            1608.9326194221967
+          ],
+          "link": "Río Artonsamay (Artonsamay River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea3b2b6829b8",
+          "type": "BodyOfWater",
+          "loc": [
+            1771.5234361622358,
+            1754.5320715224552
+          ],
+          "link": "Río Zumkend (Zumkend River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f98ba93a3bca",
+          "type": "BodyOfWater",
+          "loc": [
+            1962.4423102409764,
+            1139.9825669357713
+          ],
+          "link": "Río Dulsi (Dulsi River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_889b7afb4b79",
+          "type": "BodyOfWater",
+          "loc": [
+            903.3125,
+            2486.9595728451563
+          ],
+          "link": "Río Flanmi (Flanmi River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89195a594bc9",
+          "type": "BodyOfWater",
+          "loc": [
+            1009.4037776102359,
+            2182.4561335383537
+          ],
+          "link": "Río Harp (Harp River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bb9ab0a88b8",
+          "type": "BodyOfWater",
+          "loc": [
+            2079.112548828125,
+            697.1826209119947
+          ],
+          "link": "Río Fler (Fler River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca1b48ba6a6b",
+          "type": "BodyOfWater",
+          "loc": [
+            750.3125305175781,
+            723.8601556540807
+          ],
+          "link": "Río Javan (Javan River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da59a928f9d9",
+          "type": "BodyOfWater",
+          "loc": [
+            954,
+            1190.4003295432876
+          ],
+          "link": "Río Jewel (Jewel River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.47706859223996284,
+            -0.5097707336506294
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_296a08385b29",
+          "type": "BodyOfWater",
+          "loc": [
+            856.8562927246094,
+            981.9532784491802
+          ],
+          "link": "Río Kewl (Kewl River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb1b7be91a2a",
+          "type": "BodyOfWater",
+          "loc": [
+            855.5374024457652,
+            915.8495831875548
+          ],
+          "link": "Río Sheldomar (Sheldomar River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_584aca898b69",
+          "type": "BodyOfWater",
+          "loc": [
+            1010.3937875256191,
+            859.8039998156524
+          ],
+          "link": "Río Lort (Lort River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8e8c98899c8",
+          "type": "BodyOfWater",
+          "loc": [
+            1186.5027571184555,
+            1407.1487973880485
+          ],
+          "link": "Río Neen (Neen River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb8bc809bb18",
+          "type": "BodyOfWater",
+          "loc": [
+            1189.3456405057022,
+            1307.4094223628133
+          ],
+          "link": "Río Selintan (Selintan River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a9a49381aa9",
+          "type": "BodyOfWater",
+          "loc": [
+            1407.9291638028114,
+            397.90240730997425
+          ],
+          "link": "Río Tuflik (Tuflik River)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b6a8bdabb59",
+          "type": "Dungeon",
+          "loc": [
+            1170.3389517825494,
+            1470.04040378004
+          ],
+          "link": "Castillo Maure (Maure Castle)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f98a79987939",
+          "type": "Dungeon",
+          "loc": [
+            1073.437226024465,
+            1400.778951754736
+          ],
+          "link": "Torre del Fantasma de Inverness (Ghost Tower of Inverness)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aadb1bab2938",
+          "type": "Dungeon",
+          "loc": [
+            391.3076734796889,
+            2317.04238016381
+          ],
+          "link": "Tumba de los Horrores (Tomb of Horrors)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69d9784ae8da",
+          "type": "Mountain",
+          "loc": [
+            893.0562744140625,
+            550.2564850901031
+          ],
+          "link": "Túmulos de Stark (Stark Mounds)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa2b3879286a",
+          "type": "BodyOfWater",
+          "loc": [
+            2201.3125,
+            1674.0038138825325
+          ],
+          "link": "Mar de Hielo Septentrional (Northern Ice Sea)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cafb5858084a",
+          "type": "BodyOfWater",
+          "loc": [
+            2006.1124572753906,
+            160.67245155177307
+          ],
+          "link": "Mar Dramidj (Dramidj Ocean)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea98bac8cbc9",
+          "type": "Forest",
+          "loc": [
+            462.8102357530347,
+            2120.8378799609336
+          ],
+          "link": "Bosque de Menowood (Menowood Forest)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb4aabfaeb1b",
+          "type": "Mountain",
+          "loc": [
+            541.8647652580162,
+            2406.95642447039
+          ],
+          "link": "Altas Tierras de Hestmark (Hestmark Highlands)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59b9d85b487b",
+          "type": "Mountain",
+          "loc": [
+            1036.556673691962,
+            2726.796750128571
+          ],
+          "link": "Colinas de las Acantilados de la Gaviota (Gull Cliffs)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa4b6a8bcaea",
+          "type": "Mountain",
+          "loc": [
+            1345.138068685934,
+            2267.6070820285418
+          ],
+          "link": "Colinas de Blemu (Blemu Hills)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb1838fb8a4a",
+          "type": "Mountain",
+          "loc": [
+            1821.3037492419314,
+            1724.5476371766938
+          ],
+          "link": "Colinas del Farallón (Bluff Hills)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aadbca2a0939",
+          "type": "Mountain",
+          "loc": [
+            225.22235727435478,
+            2235.7362616373566
+          ],
+          "link": "Cresta de la Espina (Spine Ridge)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8bb0b18f8fb",
+          "type": "Mountain",
+          "loc": [
+            1634.9104621428796,
+            832.1037264693327
+          ],
+          "link": "Montañas Clatspur Range (Clatspur Range)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9b85afbaa18",
+          "type": "Mountain",
+          "loc": [
+            776.2562561035156,
+            1401.542715484363
+          ],
+          "link": "Montañas Drachensgrab (Drachensgrab Hills)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a68eb59eb59",
+          "type": "Mountain",
+          "loc": [
+            450.5125732421875,
+            253.2820991847825
+          ],
+          "link": "Montañas Sulhaut (Sulhaut Mountains)",
+          "layer": "%5B%5Bflanaeass.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 1026.1996973868488,
+              "lng": 854.1618740677111,
+              "id": "ID_dbb928d988d8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1026.1996973868488,
+              "lng": 854.1618740677111,
+              "id": "ID_cbf8a99998eb",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "09 Maps/Map of the Flanaess.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Kingdom",
+      "iconName": "chess-king",
+      "color": "#bd2828",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "chess-rook",
+      "color": "#ebd024",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "BodyOfWater",
+      "iconName": "water",
+      "color": "#2670e8",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "town",
+      "iconName": "campground",
+      "color": "#f5cc00",
+      "alpha": 0.88,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Forest",
+      "iconName": "tree",
+      "color": "#34711e",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Mountain",
+      "iconName": "mountain",
+      "color": "#fdba2b",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Desert",
+      "iconName": "wind",
+      "color": "#dfbe77",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Dungeon",
+      "iconName": "dungeon",
+      "color": "#5a419f",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Village",
+      "iconName": "home",
+      "color": "#ebd024",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": false,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

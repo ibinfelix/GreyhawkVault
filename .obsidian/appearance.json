@@ -1,0 +1,12 @@
+{
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "textFontFamily": "Palatino Linotype",
+  "interfaceFontFamily": "Palatino Linotype",
+  "nativeMenus": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "force-font",
+    "mermaidconfig"
+  ]
+}
